@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "productName": "Body Pomade - Frankincense & Myrrh",
+      "description": "Body Pomade with essential oils of Frankincense & Myrrh and olive oil",
+      "price": "35",
+      "whipped": true,
+      "imageURL": "https://i.etsystatic.com/37540783/c/2250/2250/0/220/il/4a9df0/4268920928/il_300x300.4268920928_bnig.jpg"
+    },
+    {
+      "id": "2",
+      "productName": "Body Pomade - Black Cherry",
+      "description": "Body Pomade with essential oils of Black Cherry and olive oil",
+      "price": "35",
+      "whipped": true,
+      "imageURL": "https://i.etsystatic.com/21168439/r/il/fd0a71/3516371580/il_794xN.3516371580_lajg.jpg"
+    },
+    {
+      "id": "3",
+      "productName": "Body Pomade - Lavender",
+      "description": "Body Pomade with essential oils of Lavender and olive oil",
+      "price": "35",
+      "whipped": true,
+      "imageURL": "https://smearnatural.com/cdn/shop/files/709FE6E8-B46E-4A5C-A8B1-6EDEE5909EB8_900x.jpg?v=1641260783"
+    },
+    {
+      "productName": "Body Pomade - Clean ",
+      "description": "Body Pomade with olive oil and NO essential oils. Recommend for very damaged skin.",
+      "price": "35",
+      "id": "4",
+      "whipped": true,
+      "imageURL": "https://smearnatural.com/cdn/shop/files/4D2DE4BA-265A-4909-885B-7D1D88F0E077_900x.jpg?v=1646639923"
+    },
+    {
+      "productName": "Tallow Soap",
+      "description": "Soap made from tallow and olive oil",
+      "price": "20",
+      "id": "5",
+      "whipped": true,
+      "imageURL": "https://nezzanaturals.com/cdn/shop/articles/Black_and_White_Sand_Dunes_Blog_Header_315_x_560_px_-3_64ba1a48-4107-4846-b783-b5be776224ee.png?v=1676236551"
+    },
+    {
+      "productName": "Shea Butter Scrub - Lavender",
+      "description": "Body Scrub with essential oils of Lavender and olive oil",
+      "price": "25",
+      "whipped": "",
+      "imageURL": "https://amamasapothecary.com.au/cdn/shop/files/image_0c12adb5-2ffa-49ce-9d9d-59f601ba9cbd.jpg?v=1683106885&width=1946",
+      "id": "6"
+    },
+    {
+      "id": "e8c6",
+      "productName": "New Product",
+      "description": "New product ",
+      "price": "New price",
+      "whipped": "Possibly",
+      "imageURL": "NO"
+    }
+  ]
+}
