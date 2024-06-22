@@ -1,3 +1,1 @@
-
-# skincare-store
 # online-storefront
